@@ -1,7 +1,7 @@
 # bot settings
-bot_token: 'YOUR_BOT_TOKEN' # support bot token
-staffchat_id: 'SUPERGROUP_CHAT_ID' # eg. -123456789
-owner_id: 'YOUR_TELEGRAM_ID'
+bot_token: '559467373:AAGRQji8RXTpDkZEZl5wzXwudNi2yne46kk' # support bot token
+staffchat_id: '-814663642' # eg. -123456789
+owner_id: '-814663642'
 spam_time: 300000 # time (in MS) in which user may send 5 messages
 spam_cant_msg: 5
 
